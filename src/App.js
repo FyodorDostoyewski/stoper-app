@@ -1,6 +1,10 @@
+
+import Time from './components/time/time.js';
+
 const App = () => {
   return (
-    <h1>Hello world</h1>
+    
+    <Time />
   );
 };
 
